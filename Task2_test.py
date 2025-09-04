@@ -11,14 +11,14 @@ class TestTask2(unittest.TestCase):
     def test_main_james_bond(self, mock_stdout, mock_input):
         """Test main function with first name 'James' and last name 'Bond'"""
         Task2.main()
-        self.assertEqual(mock_stdout.getvalue().strip(), "My name is Bond,James Bond")
+        self.assertEqual(mock_stdout.getvalue().strip(), "My name is Bond, James Bond")
         
     @patch('builtins.input', side_effect=['John', 'Doe'])
     @patch('sys.stdout', new_callable=io.StringIO)
     def test_main_john_doe(self, mock_stdout, mock_input):
         """Test main function with first name 'John' and last name 'Doe'"""
         Task2.main()
-        self.assertEqual(mock_stdout.getvalue().strip(), "My name is Doe,John Doe")
+        self.assertEqual(mock_stdout.getvalue().strip(), "My name is Doe, John Doe")
         
     @patch('builtins.input', side_effect=['', ''])
     @patch('sys.stdout', new_callable=io.StringIO)
@@ -32,14 +32,14 @@ class TestTask2(unittest.TestCase):
     def test_main_ada_lovelace(self, mock_stdout, mock_input):
         """Test main function with first name 'Ada' and last name 'Lovelace'"""
         Task2.main()
-        self.assertEqual(mock_stdout.getvalue().strip(), "My name is Lovelace,Ada Lovelace")
+        self.assertEqual(mock_stdout.getvalue().strip(), "My name is Lovelace, Ada Lovelace")
     
     @patch('builtins.input', side_effect=['Special@Name', 'Last-Name'])
     @patch('sys.stdout', new_callable=io.StringIO)
     def test_main_special_characters(self, mock_stdout, mock_input):
         """Test main function with names containing special characters"""
         Task2.main()
-        self.assertEqual(mock_stdout.getvalue().strip(), "My name is Last-Name,Special@Name Last-Name")
+        self.assertEqual(mock_stdout.getvalue().strip(), "My name is Last-Name, Special@Name Last-Name")
 
 if __name__ == '__main__':
     unittest.main()
