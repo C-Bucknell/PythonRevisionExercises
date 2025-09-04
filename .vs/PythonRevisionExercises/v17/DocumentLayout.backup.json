@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task7_test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task7_test.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task8.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task8.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task7.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task5.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task7_test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task7_test.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task6_test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -54,11 +58,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Task8.py",
+              "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task8.py",
+              "RelativeDocumentMoniker": "Task8.py",
+              "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task8.py",
+              "RelativeToolTip": "Task8.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-09-04T02:18:16.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Task6_test.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task6_test.py",
               "RelativeDocumentMoniker": "Task6_test.py",
@@ -71,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Task6.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task6.py",
               "RelativeDocumentMoniker": "Task6.py",
@@ -83,16 +108,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Task5_test.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task5_test.py",
               "RelativeDocumentMoniker": "Task5_test.py",
@@ -105,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Task4_test.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task4_test.py",
               "RelativeDocumentMoniker": "Task4_test.py",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Task3_test.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task3_test.py",
               "RelativeDocumentMoniker": "Task3_test.py",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Task2_test.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task2_test.py",
               "RelativeDocumentMoniker": "Task2_test.py",
@@ -144,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Task1.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\Source\\Repos\\PythonRevisionExercises\\Task1.py",
               "RelativeDocumentMoniker": "Task1.py",
@@ -157,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Task2.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task2.py",
               "RelativeDocumentMoniker": "Task2.py",
@@ -170,13 +187,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Task7_test.py",
               "DocumentMoniker": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task7_test.py",
               "RelativeDocumentMoniker": "Task7_test.py",
               "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task7_test.py",
               "RelativeToolTip": "Task7_test.py",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowDcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-04T02:11:53.942Z",
               "EditorCaption": ""
@@ -189,7 +206,7 @@
               "RelativeDocumentMoniker": "Task7.py",
               "ToolTip": "C:\\Users\\c.bucknell\\source\\repos\\PythonRevisionExercises\\Task7.py",
               "RelativeToolTip": "Task7.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-04T02:11:40.396Z",
               "EditorCaption": ""
