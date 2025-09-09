@@ -5,7 +5,6 @@ def main():
     
     var = input('What is your name: ')
     print(f'Hi, {var}')
-
     # End of your code for input here
 
 
